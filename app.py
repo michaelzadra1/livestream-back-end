@@ -21,7 +21,7 @@ CLIENT_SECRET =  "oNMHYzzTTEaAjV9sD-UVhNv1"
 CLIENT_ID =  "747325281443-82qc3hh5t0br4941i8bpn56sjiffbt8p.apps.googleusercontent.com"
 
 CREDENTIALS = {}
-CREDENTIALS['token'] = "ya29.Glu_BbROhPDo06w6oduNZ4ubVrlHPVWcCxt8uRD77iMzoTgKrdSszBgiTO7pUdLkEh70q0Gj03zsARCLAnav9NnK4C1to384kESw-80xgn67pnhr_rE58nj_Mv1_"
+CREDENTIALS['token'] = "ya29.Glu_BeCYp4GykUyruASrdNzqfdHafBW87ZADMokuw5K7bUuAB-I3IHH6HBooWy8M_JUlhLijboO5uG-uoCSceTZqlEiOLy8KSpGmPJracJ-XHdcpmfEy7Hjzt6Fg"
 CREDENTIALS['refresh_token'] = None
 CREDENTIALS['token_uri'] = "https://accounts.google.com/o/oauth2/token"
 CREDENTIALS['client_id'] = CLIENT_ID
