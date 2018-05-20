@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "livestreamproject-204201",
+  "private_key_id": "0c51e801972d6015b180d532c0684eee43eebea3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5xgqu+mKQtn33\nI7e5SsAlHha2NcD5Mlq+zxGZ5lkRiT+CorWxoGMfjZDjQRidv9Yd9D6Pva8PoSkb\nSJ203vmedstHyqmohUKQ3oDejuSccamV1mm/xS+ZAYXweWy6vqtGgT4OCkJumtJm\nwXnkTxWM5tADJSjB9GT1Nbwn1ffFLmG0VoDmeWMqliEQ5aa7mCKuuospwPCLOpjh\nfSirViq050KeBz6CK/PLp2PDrO3ajt4sCqhDd2BmV8REVPxNmSCGyR+RS9gzFO2g\ngPahuOBwEHo7iw7cRiBxCSrf3Gxd7GaeDR2GKkxQu2O3HExkIaRO0HDGQPIiwjiE\nq7BbWPRVAgMBAAECggEAIbFHUsDai4BtjBsQQSzLeG/ikp1hKFD3oE+R06WxVbrc\np+a2qUZ7c8eLFYxC2KloPfqENjGixGToPaiH4bvm7dSBvb2F06iHkBqqqLKlx7Hd\nne1LNJqgrVFXZ2u+Sog2LA1Yodc+gSzXKAfDAaNON0XNSCS/JZ4biVV7kIX/7+TQ\nR3h3iwsOsjQ4jSqy5F/om3jzJZjAD/CYMtAREn5jc2w6LVFLJeJrt9bGcC9h+R19\ne/EgQFP9rfWaul3WETpXrh/3Nia6T1fthpof1jg3uWhIQwX7400dSErrHJQ6XpoJ\n0Ol1qVbsoqZ04Ah1k9VcyNy6Rp58XdOYrqBKtPCYqQKBgQDqhK8xftTOS2avh4vj\nVN7DZmAH9WMtK+AX6VNLq1+m48+FFtYYjd+uEGUomtlBEKIhL6fm7FnUJOxA0hEM\nte0T93aGGu7F/9hGjZiTt76Ni+xVf3nHuiSchQmgVNBacRp26uG4GL9VawJoz/rp\n7Ut64XxR2kUHc5RCcirc8mENtwKBgQDKylKv8s7jPiXdSFJ7cQCDLZzsFSNyHdIq\nZk2IV/qFrFAXnA1XmG0l2YfK7RWe6FkPqSZm2YA8DJ/V+vnhDY/bnZahbcryn71u\nSdZI+ZHzvp836xnfmCMjvwXMzgBVPB0uT88dhDxFTfxcaoa1Htr5F1EJsxB8XDdX\nPybl0eqOUwKBgFTcrJSpg5Ie4MqVrv4VQQLOMePPXRMEdHPSn6ybF+LJPte3GsQJ\n2q4fCqv11LXhsfl2SDicwCivL7qJCVhjIKX//yip6EtHuFhXdqXFcLPBtUR++29V\noVfuIDyfVEHV+bCccA9xDRN4xIdu8ynhD1Yo8BaieCYpIbYln/MR1iLjAoGAbbFH\nTPlwQ6eIX8wRIcicWFjB+0nr5HyRBHJWGhxM3SW6JSs6ZFmFIOYr9+6KtWxFUJ1U\nsmmQXesOQncB12S4njj+E9AJ6XfSxeeWy96Dvm8sPNklI7dtupZHkuMTdwePWU++\nXt76oxpuGaddunc4R2j/YtnDXyGapcz5Q3NrBxUCgYEA3bcVIg/fRVAsrnc24ZXx\nlxhZDK6fFlEG1n0wayfMwtHtiyYsc3eAXJU+Su4DuY3QgaWL2pUpQ5LlKkU4NEP4\ncKK6jnsV4Fzi5RIeq9VVwolvZdWnhSS4FnzLVV0RczvaBKg8eQzsH1k40GBRo8so\nblXXBd46fIS+tJm2RAiavfo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-db-service@livestreamproject-204201.iam.gserviceaccount.com",
+  "client_id": "115539435034441732825",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-db-service%40livestreamproject-204201.iam.gserviceaccount.com"
+}
