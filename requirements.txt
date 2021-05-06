@@ -16,7 +16,7 @@ entrypoints==0.2.3
 ez-setup==0.9
 firebase-admin==2.10.0
 Flask==1.0.2
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 gcloud==0.17.0
 google-api-core==1.1.2
 google-api-python-client==1.6.7
