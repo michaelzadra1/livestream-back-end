@@ -80,7 +80,7 @@ pylint==1.7.4
 PyMySQL==0.8.1
 pyparsing==2.2.0
 python-dateutil==2.6.1
-python-jwt==2.0.1
+python-jwt==3.3.4
 python3-openid==3.1.0
 pytz==2017.3
 pyzmq==16.0.2
